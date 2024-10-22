@@ -14,5 +14,5 @@ Also, need to follow certain technical guidelines:
 Should use SCSS for styling, have README.md and .gitignore files. Any UI Design can be used.
 
 Completed work looks like below:
-Screen Recording 2024-10-21 at 10.32.24 PM.gif
+[Screen Recording 2024-10-21 at 10.32.24 PM.gif](https://github.com/amritessh/Assignment-6/blob/15d499bb87eb8a6976ad5b06f8517ba017e131cb/Screen%20Recording%202024-10-21%20at%2010.32.24%E2%80%AFPM.gif)
 
