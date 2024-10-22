@@ -13,3 +13,5 @@ Also, need to follow certain technical guidelines:
 
 Should use SCSS for styling, have README.md and .gitignore files. Any UI Design can be used.
 
+Completed work looks like below:
+[COMPLETED WORK DEMOSTRATION AS PER REQUIREMENTS](<Screen Recording 2024-10-21 at 10.32.24 PM.mov>)
